@@ -1,0 +1,43 @@
+{
+    "header": {
+        "title": "Jane Doe - Game Developer Portfolio",
+        "description": "Crafting engaging pixel worlds and robust game mechanics across diverse genres, from RPGs to Tower Defense.",
+        "imageAlt": "Screenshot of {name}",
+        "images": [
+            {
+                "name": "rpg-waterfalls",
+                "class": "col-span-12 row-span-2 md:col-span-6 lg:col-span-4"
+            },
+            {
+                "name": "farming-animals",
+                "class": "hidden md:grid lg:grid md:col-span-6 lg:col-span-5"
+            },
+            {
+                "name": "iso-platformer-up",
+                "class": "hidden lg:grid lg:col-span-3"
+            },
+            {
+                "name": "rpg-town",
+                "class": "hidden md:grid lg:grid md:col-span-6 lg:col-span-4"
+            },
+            {
+                "name": "tower-defense-cellular",
+                "class": "hidden lg:grid lg:col-span-4"
+            }
+        ],
+        "links": [
+            {
+                "label": "Itch.io Page",
+                "url": "https://your-itch-page.itch.io/"
+            },
+            {
+                "label": "Personal GitHub",
+                "url": "https://github.com/your-github-profile"
+            },
+            {
+                "label": "Game dev GitHub",
+                "url": "https://github.com/your-github-profile"
+            }
+        ]
+    }
+}
