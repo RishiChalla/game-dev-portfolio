@@ -1,6 +1,10 @@
 
 import { defineComponent } from 'vue';
 import Header from './header';
+import Navbar from './navbar';
+import About from './about';
+import Projects from './projects';
+import Education from './education';
 
 import content from './content.json';
 
@@ -9,11 +13,18 @@ export default defineComponent({
     return () => (
       <div class="min-h-screen bg-gray-900">
         <Header {...content.header} />
+        <Navbar {...content.navigation} />
 
-        <main class="container mx-auto p-8 text-white">
-            <h2 class="text-3xl font-bold mb-4">My Projects</h2>
-            <p>Content for the rest of your portfolio goes here...</p>
+        <main>
+            <About data={content.about} />
+            <Projects data={content.projects} />
+            <Education data={content.education} />
         </main>
+
+        <footer
+            class="py-8 text-center text-gray-500 text-sm"
+            v-html={content.footer.replace('{year}', new Date().getFullYear())}
+        />
       </div>
     );
   },

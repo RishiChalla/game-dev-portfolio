@@ -39,5 +39,222 @@
                 "url": "https://github.com/your-github-profile"
             }
         ]
-    }
+    },
+    "navigation": {
+        "items": [
+            {
+                "label": "About",
+                "target": "about"
+            },
+            {
+                "label": "Projects",
+                "target": "projects"
+            },
+            {
+                "label": "Education",
+                "target": "education"
+            }
+        ]
+    },
+    "about": {
+        "title": "About Me",
+        "description": [
+            "I am a passionate game developer specializing in Vue 3 and Unity. I love creating immersive worlds and challenging mechanics.",
+            "I am a passionate game developer specializing in Vue 3 and Unity. I love creating immersive worlds and challenging mechanics."
+        ]
+    },
+    "projects": {
+        "title": "Selected Projects",
+        "description": "A collection of my work ranging from game jams to long-term productions. All artwork shown is vector-based, created using Affinity Designer or Adobe Illustrator.",
+        "items": [
+            {
+                "title": "Waterfall Shrine",
+                "image": "rpg-waterfalls",
+                "layout": "row-span-2 h-full",
+                "description": "A featured artwork demo for a long-term RPG project. This scene showcases a dynamic isometric environment with waterfalls, vegetation, and a lore-rich fox statue that grants player abilities.",
+                "tags": [
+                    "Affinity Designer",
+                    "Vector Art",
+                    "Isometric"
+                ],
+                "links": []
+            },
+            {
+                "title": "Crow's Ascent",
+                "image": "platformer-wings",
+                "layout": "col-span-1 aspect-video",
+                "description": "A tight platformer made for Secret Santa 2024. You start as a 'human' but slowly reveal your true form as a crow, gaining flight mechanics like double and triple jumps to navigate a perilous cloudy sky.",
+                "tags": [
+                    "Godot",
+                    "Vector Art",
+                    "Platformer"
+                ],
+                "links": [
+                    {
+                        "label": "Itch.io",
+                        "url": "#"
+                    }
+                ]
+            },
+            {
+                "title": "Soda Pop Rush",
+                "image": "platformer-soda",
+                "layout": "col-span-1 aspect-video",
+                "description": "My first completed solo game jam entry. A physics-defying platformer where swimming in soda reverses gravity. Exploding soda cans provide infinite fluid sources for creative navigation.",
+                "tags": [
+                    "Godot",
+                    "Vector Art",
+                    "Physics"
+                ],
+                "links": [
+                    {
+                        "label": "Itch.io",
+                        "url": "#"
+                    }
+                ]
+            },
+            {
+                "title": "Viral Defense",
+                "image": "tower-defense-cellular",
+                "layout": "col-span-1 aspect-video",
+                "description": "A biological tower defense game set inside the brain. Deploy specialized viruses to destroy 'knowledge books' entering through the eyes and ears before they are absorbed.",
+                "tags": [
+                    "Unity",
+                    "Vector Art",
+                    "Strategy"
+                ],
+                "links": []
+            },
+            {
+                "title": "Asteroid Assault",
+                "image": "shmup-space",
+                "layout": "col-span-1 aspect-video",
+                "description": "A side-scrolling shooter where you collect game chips to drastically alter your ship's firing patterns. My first ever game jam project.",
+                "tags": [
+                    "Construct 3",
+                    "Vector Art",
+                    "Shmup"
+                ],
+                "links": [
+                    {
+                        "label": "Itch.io",
+                        "url": "#"
+                    }
+                ]
+            },
+            {
+                "title": "Farm Tools Survival",
+                "image": "farming-animals",
+                "layout": "col-span-1 aspect-video",
+                "description": "A survival farming sim where you play as the tools themselves. Farm by day, but defend against attacking animals by night. Created with a team for a game jam.",
+                "tags": [
+                    "Unity",
+                    "Vector Art",
+                    "Team"
+                ],
+                "links": []
+            },
+            {
+                "title": "Space Whale Circuit",
+                "image": "party-whale",
+                "layout": "col-span-1 aspect-video",
+                "description": "A 4-player multiplayer party game. Players traverse space circuits using a dice-like charge mechanic. Summon the Space Whale to twist the board layout.",
+                "tags": [
+                    "Bevy",
+                    "Rust",
+                    "Multiplayer"
+                ],
+                "links": []
+            },
+            {
+                "title": "Rising Tides",
+                "image": "iso-platformer-up",
+                "layout": "col-span-1 aspect-video",
+                "description": "An experimental isometric platformer where you must ascend rapidly to escape rising water levels. Features Lottie animations and Bevy Vello integration.",
+                "tags": [
+                    "Bevy",
+                    "Rust",
+                    "Lottie"
+                ],
+                "links": []
+            },
+            {
+                "title": "Ghost Atmosphere",
+                "image": "platformer-ghost",
+                "layout": "col-span-1 aspect-video",
+                "description": "A personal art project exploring horror atmospheres in an isometric perspective. Created entirely in Affinity Designer.",
+                "tags": [
+                    "Affinity Designer",
+                    "Vector Art",
+                    "Art Demo"
+                ],
+                "links": []
+            },
+            {
+                "title": "Data Bot",
+                "image": "platformer-robot",
+                "layout": "col-span-1 aspect-video",
+                "description": "A data-themed platformer where you play as a robot navigating through cloud storage and graphs. Created for a data-themed game jam.",
+                "tags": [
+                    "Unity",
+                    "Vector Art",
+                    "Platformer"
+                ],
+                "links": []
+            },
+            {
+                "title": "Isometric Dungeon",
+                "image": "puzzle-monsters",
+                "layout": "col-span-1 aspect-video",
+                "description": "A college project where you navigate a triangle hero through lava, acid, and spikes. I handled all vector artwork for this GameMaker Studio 2 title.",
+                "tags": [
+                    "GameMaker",
+                    "Vector Art",
+                    "Puzzle"
+                ],
+                "links": []
+            },
+            {
+                "title": "Robo Delivery",
+                "image": "puzzle-robot",
+                "layout": "col-span-1 aspect-video",
+                "description": "An isometric puzzle game about delivering parcels to power up or power down lasers to clear your path.",
+                "tags": [
+                    "PixiJS",
+                    "Vector Art",
+                    "Puzzle"
+                ],
+                "links": []
+            },
+            {
+                "title": "RPG Town Assets",
+                "image": "rpg-town",
+                "layout": "col-span-1 aspect-video",
+                "description": "A comprehensive isometric asset demo featuring a bookshop and spell shop set in a desert cliff town. Created for reusable asset libraries.",
+                "tags": [
+                    "Affinity Designer",
+                    "Vector Art",
+                    "Assets"
+                ],
+                "links": []
+            },
+            {
+                "title": "Infinite Ace",
+                "image": "shmup-plane",
+                "layout": "col-span-1 aspect-video",
+                "description": "A classic top-down infinite scrolling shoot 'em up. Defend the skies against waves of enemy planes.",
+                "tags": [
+                    "GameMaker",
+                    "Vector Art",
+                    "Arcade"
+                ],
+                "links": []
+            }
+        ]
+    },
+    "education": {
+        "title": "Education & Certifications",
+        "description": "My academic background and continuous learning journey."
+    },
+    "footer": "&copy; {year} Jane Doe."
 }
