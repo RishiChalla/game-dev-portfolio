@@ -1,7 +1,7 @@
 {
     "header": {
-        "title": "Jane Doe - Game Developer Portfolio",
-        "description": "Crafting engaging pixel worlds and robust game mechanics across diverse genres, from RPGs to Tower Defense.",
+        "title": "Rishi Challa - Game Dev Portfolio",
+        "description": "Creating games and artwork specialized in vector graphic and isometric perspectives.",
         "imageAlt": "Screenshot of {name}",
         "images": [
             {
@@ -28,15 +28,15 @@
         "links": [
             {
                 "label": "Itch.io Page",
-                "url": "https://your-itch-page.itch.io/"
+                "url": "https://kingcreator11.itch.io/"
             },
             {
                 "label": "Personal GitHub",
-                "url": "https://github.com/your-github-profile"
+                "url": "https://github.com/RishiChalla/"
             },
             {
                 "label": "Game dev GitHub",
-                "url": "https://github.com/your-github-profile"
+                "url": "https://github.com/KingCreator11"
             }
         ]
     },
@@ -59,154 +59,163 @@
     "about": {
         "title": "About Me",
         "description": [
-            "I am a passionate game developer specializing in Vue 3 and Unity. I love creating immersive worlds and challenging mechanics.",
-            "I am a passionate game developer specializing in Vue 3 and Unity. I love creating immersive worlds and challenging mechanics."
+            "Hi! I'm a full-time full-stack developer and aspiring game artist. I specialize in and enjoy working on vector art, especially those with isometric perspectives. I've worked with a variety of technologies and tools, but am most passionate about Rust and Bevy. This portfolio contains a lot of my concept art and even some finished games from game jams."
         ]
     },
     "projects": {
-        "title": "Selected Projects",
-        "description": "A collection of my work ranging from game jams to long-term productions. All artwork shown is vector-based, created using Affinity Designer or Adobe Illustrator.",
+        "title": "Projects",
+        "description": "A collection of my work from game jams to concept art. All artwork shown is vector-based, made with either Affinity Designer or Adobe Illustrator.",
         "items": [
             {
                 "title": "Waterfall Shrine",
                 "image": "rpg-waterfalls",
+                "year": "2025",
                 "layout": "row-span-2 h-full",
-                "description": "A featured artwork demo for a long-term RPG project. This scene showcases a dynamic isometric environment with waterfalls, vegetation, and a lore-rich fox statue that grants player abilities.",
+                "description": "Concept art for a long-term RPG project. This scene showcases a dynamic isometric environment with waterfalls, vegetation, and a lore-rich fox statue that grants player abilities.",
                 "tags": [
-                    "Affinity Designer",
-                    "Vector Art",
+                    "Concept Art",
                     "Isometric"
                 ],
                 "links": []
             },
             {
-                "title": "Crow's Ascent",
+                "title": "Are you a crow?",
                 "image": "platformer-wings",
+                "year": "2024",
                 "layout": "col-span-1 aspect-video",
-                "description": "A tight platformer made for Secret Santa 2024. You start as a 'human' but slowly reveal your true form as a crow, gaining flight mechanics like double and triple jumps to navigate a perilous cloudy sky.",
+                "description": "A tight 2d platformer made for the Secret Santa 2024 game jam. You start as a 'human' but slowly reveal your true form as a crow, gaining flight mechanics like double and triple jumps to navigate a perilous cloudy sky.",
                 "tags": [
                     "Godot",
-                    "Vector Art",
-                    "Platformer"
+                    "2d Platformer",
+                    "Vector Art"
                 ],
                 "links": [
                     {
                         "label": "Itch.io",
-                        "url": "#"
+                        "url": "https://kingcreator11.itch.io/are-you-a-crow"
                     }
                 ]
             },
             {
                 "title": "Soda Pop Rush",
                 "image": "platformer-soda",
+                "year": "2024",
                 "layout": "col-span-1 aspect-video",
                 "description": "My first completed solo game jam entry. A physics-defying platformer where swimming in soda reverses gravity. Exploding soda cans provide infinite fluid sources for creative navigation.",
                 "tags": [
                     "Godot",
-                    "Vector Art",
-                    "Physics"
+                    "2d Platformer",
+                    "Vector Art"
                 ],
                 "links": [
                     {
                         "label": "Itch.io",
-                        "url": "#"
+                        "url": "https://kingcreator11.itch.io/soda-city"
                     }
                 ]
             },
             {
                 "title": "Viral Defense",
                 "image": "tower-defense-cellular",
+                "year": "2022",
                 "layout": "col-span-1 aspect-video",
-                "description": "A biological tower defense game set inside the brain. Deploy specialized viruses to destroy 'knowledge books' entering through the eyes and ears before they are absorbed.",
+                "description": "A biological tower defense game set inside the brain. You play as a virus destroying 'knowledge books' entering through the eyes and ears before they are absorbed.",
                 "tags": [
                     "Unity",
-                    "Vector Art",
-                    "Strategy"
+                    "Tower Defense",
+                    "Vector Art"
                 ],
                 "links": []
             },
             {
-                "title": "Asteroid Assault",
+                "title": "Total Cardage",
                 "image": "shmup-space",
+                "year": "2024",
                 "layout": "col-span-1 aspect-video",
-                "description": "A side-scrolling shooter where you collect game chips to drastically alter your ship's firing patterns. My first ever game jam project.",
+                "description": "A side-scrolling shooter where you collect game chips to change your ship's firing patterns. My first ever game jam project, worked with a team where I did the artwork.",
                 "tags": [
                     "Construct 3",
-                    "Vector Art",
-                    "Shmup"
+                    "Shmup",
+                    "Vector Art"
                 ],
                 "links": [
                     {
                         "label": "Itch.io",
-                        "url": "#"
+                        "url": "https://team-ligma.itch.io/minijamegam31"
                     }
                 ]
             },
             {
                 "title": "Farm Tools Survival",
                 "image": "farming-animals",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
-                "description": "A survival farming sim where you play as the tools themselves. Farm by day, but defend against attacking animals by night. Created with a team for a game jam.",
+                "description": "A survival farming game where you play as the tools themselves. Farm by day, but defend against attacking animals by night. Worked with a team, I did the artwork.",
                 "tags": [
                     "Unity",
-                    "Vector Art",
-                    "Team"
+                    "Top-Down",
+                    "Vector Art"
                 ],
                 "links": []
             },
             {
                 "title": "Space Whale Circuit",
                 "image": "party-whale",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
-                "description": "A 4-player multiplayer party game. Players traverse space circuits using a dice-like charge mechanic. Summon the Space Whale to twist the board layout.",
+                "description": "A 4-player party game. Play as a charge to traverse a circuit board in space. Summon the Space Whale to twist the board layout.",
                 "tags": [
-                    "Bevy",
-                    "Rust",
+                    "Rust/Bevy",
+                    "Party",
                     "Multiplayer"
                 ],
                 "links": []
             },
             {
-                "title": "Rising Tides",
+                "title": "Forever Up",
                 "image": "iso-platformer-up",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
-                "description": "An experimental isometric platformer where you must ascend rapidly to escape rising water levels. Features Lottie animations and Bevy Vello integration.",
+                "description": "An isometric platformer where you must ascend rapidly to escape rising water levels. Features Lottie animations and Bevy Vello integration.",
                 "tags": [
-                    "Bevy",
-                    "Rust",
+                    "Rust/Bevy",
+                    "Isometric Platformer",
                     "Lottie"
                 ],
                 "links": []
             },
             {
-                "title": "Ghost Atmosphere",
+                "title": "Horror Atmosphere",
                 "image": "platformer-ghost",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
-                "description": "A personal art project exploring horror atmospheres in an isometric perspective. Created entirely in Affinity Designer.",
+                "description": "Concept art experimenting with horror atmospheres in an isometric perspective. Created entirely in Affinity Designer.",
                 "tags": [
-                    "Affinity Designer",
-                    "Vector Art",
-                    "Art Demo"
+                    "Concept Art",
+                    "Isometric",
+                    "Horror"
                 ],
                 "links": []
             },
             {
                 "title": "Data Bot",
                 "image": "platformer-robot",
+                "year": "2022",
                 "layout": "col-span-1 aspect-video",
                 "description": "A data-themed platformer where you play as a robot navigating through cloud storage and graphs. Created for a data-themed game jam.",
                 "tags": [
                     "Unity",
-                    "Vector Art",
-                    "Platformer"
+                    "2d Platformer",
+                    "Vector Art"
                 ],
                 "links": []
             },
             {
                 "title": "Isometric Dungeon",
                 "image": "puzzle-monsters",
+                "year": "2021",
                 "layout": "col-span-1 aspect-video",
-                "description": "A college project where you navigate a triangle hero through lava, acid, and spikes. I handled all vector artwork for this GameMaker Studio 2 title.",
+                "description": "A college project where you navigate a triangle hero through lava, acid, and spikes. Worked with a team, I did the artwork.",
                 "tags": [
                     "GameMaker",
                     "Vector Art",
@@ -217,44 +226,59 @@
             {
                 "title": "Robo Delivery",
                 "image": "puzzle-robot",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
                 "description": "An isometric puzzle game about delivering parcels to power up or power down lasers to clear your path.",
                 "tags": [
                     "PixiJS",
-                    "Vector Art",
+                    "Isometric",
                     "Puzzle"
                 ],
                 "links": []
             },
             {
-                "title": "RPG Town Assets",
+                "title": "RPG Desert Town",
                 "image": "rpg-town",
+                "year": "2025",
                 "layout": "col-span-1 aspect-video",
-                "description": "A comprehensive isometric asset demo featuring a bookshop and spell shop set in a desert cliff town. Created for reusable asset libraries.",
+                "description": "Concept art of a desert town over cliffs with an isometric perspective and a bookshop / spell shop.",
                 "tags": [
-                    "Affinity Designer",
-                    "Vector Art",
-                    "Assets"
+                    "Concept Art",
+                    "Isometric"
                 ],
                 "links": []
             },
             {
                 "title": "Infinite Ace",
                 "image": "shmup-plane",
+                "year": "2021",
                 "layout": "col-span-1 aspect-video",
-                "description": "A classic top-down infinite scrolling shoot 'em up. Defend the skies against waves of enemy planes.",
+                "description": "A college project with a classic top-down infinite scrolling shoot 'em up. Defend the skies against waves of enemy planes.",
                 "tags": [
                     "GameMaker",
-                    "Vector Art",
-                    "Arcade"
+                    "Shmup",
+                    "Vector Art"
                 ],
                 "links": []
             }
         ]
     },
     "education": {
-        "title": "Education & Certifications",
-        "description": "My academic background and continuous learning journey."
+        "title": "Education",
+        "education": [
+            {
+                "institution": "University of Texas at Austin",
+                "years": "2023 - 2024",
+                "degree": "Masters of Science in Data Science",
+                "description": "Emphasis on Reinforcement Learning, Natural Language Processing, and Deep Learning. Primarily with Python / Torch."
+            },
+            {
+                "institution": "University of North Carolina at Charlotte",
+                "years": "2020 - 2022",
+                "degree": "Bachelors of Science in Computer Science and Data Science",
+                "description": "Concentration in AI, Gaming, and Robotics. Worked on several game dev projects here, also did some Machine Learning."
+            }
+        ]
     },
-    "footer": "&copy; {year} Jane Doe."
+    "footer": "&copy; {year} Rishi Challa."
 }
