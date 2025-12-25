@@ -115,6 +115,18 @@
                 ]
             },
             {
+                "title": "City Platformer",
+                "image": "platformer-city",
+                "year": "2025",
+                "layout": "col-span-1 aspect-video",
+                "description": "Concept art for a 2d platformer set in a city landscape",
+                "tags": [
+                    "2d Platformer",
+                    "Vector Art"
+                ],
+                "links": []
+            },
+            {
                 "title": "Viral Defense",
                 "image": "tower-defense-cellular",
                 "year": "2022",
